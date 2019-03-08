@@ -6,9 +6,9 @@ At first I just went to the same three or four places but everything has snowbal
 Project to build seven GUI's* [](https://eugenkiss.github.io/7guis/](one is in Elm)
 * [](https://korban.net/elm/book/(New Book)
 * [Official Gitbook](https://guide.elm-lang.org/)
-* Exercism has live menotors in many languages, including [(https://exercism.io/tracks/elm(Elm)!
-* One of two good looking [(https://www.udemy.com/web-development-with-elm/(Udemy) courses
-* Adapted from a Swiss professor's Scala problem set[(https://johncrane.gitbooks.io/ninety-nine-elm-problems/content/(99 Elm Problems)
+* Exercism has live menotors in many languages, including [Elm](https://exercism.io/tracks/elm)!
+* One of two good looking [Udemy](https://www.udemy.com/web-development-with-elm/(Udemy) Elm courses
+* Adapted from a Swiss professor's Scala problem set, [99 Elm Problems](https://johncrane.gitbooks.io/ninety-nine-elm-problems/content/)
 * Another good looking [(https://www.udemy.com/learn-elm-functional-programming-and-make-22-gamemaker-games/(Udemy) course
 * Free course [(https://courses.knowthen.com/p/elm-for-beginners(in Elm 0.18) but still good looking
 * [(http://www.elmweekly.nl/(Dutch Elm!).  Don't tell the bark beetles!
