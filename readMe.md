@@ -2,22 +2,22 @@
 At first I just went to the same three or four places but everything has snowballed.   This is my third time of taking a month to learn Elm and if you have rolled a snowman, you know how fast things glom on after the first two rollovers.
 ## Books, tutorials, holding your hand projects
 
-* Congenial author, very readable with nice illustrations and layout.  Pawan Poudel's [online Elm textbook](https://elmprogramming.com/)
-* Project to build * [seven GUI's](https://eugenkiss.github.io/7guis/), one of them in Elm language
-
-* The [Official Gitbook](https://guide.elm-lang.org/) including Evan's Elm Architecture examples
-* [Exercism](https://exercism.io/tracks/elm) has live mentors in many languages, including Elm !
-* One of two good looking [Udemy](https://www.udemy.com/web-development-with-elm/(Udemy) Elm courses
-* Adapted from a Swiss professor's Scala problem set, [99 Elm Problems](https://johncrane.gitbooks.io/ninety-nine-elm-problems/content/)
-* Another good looking [Udemy](https://www.udemy.com/learn-elm-functional-programming-and-make-22-gamemaker-games/) course
-* [Course](https://www.pluralsight.com/courses/building-applications-with-elm) at Pluralsight.
-* Free course from [KnowThen](https://courses.knowthen.com/p/elm-for-beginners).  This was made during Elm 0.18 but I think the projects in it are still good looking
-* [Dutch Elm](http://www.elmweekly.nl) is a newsletter, not just a 20th Century tragedy of US arboreal history.
-* [Elm Bridge](https://elmbridge.github.io/curriculum/)  is a very cool one day curriculumfrom the official Elm folks.  Project: make an emoji interpereter
-* An article on [Medium](https://medium.com/@l.mugnaini/tutorial-how-to-recycle-in-elm-89b13b6c0bab)* Book, Elm in Action from charismatic Elm-Explainer Richard Feldman [Goodreads review](https://www.goodreads.com/book/show/31441704-elm-in-action)   [Buy](https://www.manning.com/books/elm-in-action)
-* Book [Practical Elm for a Busy Developer](https://korban.net/elm/book/) by Alex Korban
-* At Github, some [koans](https://github.com/robertjlooby/elm-koans)
-* From the attempt to write Hello World in every language, Elm [Hello World](https://therenegadecoder.com/code/hello-world-in-elm/)
+* Book: Pawan Poudel's [Beginning Elm](https://elmprogramming.com/)
+* Project:  Build [seven GUI's](https://eugenkiss.github.io/7guis/), one of them in Elm language
+* Tutorial: The [Official Gitbook](https://guide.elm-lang.org/) including Evan's Elm Architecture examples
+* Tutorial: [Exercism](https://exercism.io/tracks/elm) has live mentors in many languages, including Elm !
+* Course: From Udemy [Web Development with Elm](https://www.udemy.com/web-development-with-elm/(Udemy) Elm courses
+* Exercises: [99 Elm Problems](https://johncrane.gitbooks.io/ninety-nine-elm-problems/content/) a tribute to the influential Ninety-Nine Prolog Problems, from Switzerland
+* Course: From Udemy [Make 22 Games with Elm](https://www.udemy.com/learn-elm-functional-programming-and-make-22-gamemaker-games/) course
+* Course [Building Applications](https://www.pluralsight.com/courses/building-applications-with-elm) a higher-level course from Pluralsight.
+* Course [Elm for Beginners](https://courses.knowthen.com/p/elm-for-beginners).  This course is free and was made for Elm 0.18. I am guessing it still 99% works.  You would have to figure out how to adapt the main line ("sandbox", et cetera).
+* Newsletter [Dutch Elm](http://www.elmweekly.nl).
+* Tutorial: One day course [Elm Bridge](https://elmbridge.github.io/curriculum/) aimed at underrepresented groups, distributed by the official Elm folks. In the second half of this 8 hour course you have a project: make an emoji interpereter
+* Article: on [Medium](https://medium.com/@l.mugnaini/tutorial-how-to-recycle-in-elm-89b13b6c0bab)
+* Book: Elm in Action from hard-working Elm-Explainer Richard Feldman [Goodreads review](https://www.goodreads.com/book/show/31441704-elm-in-action)   [Buy](https://www.manning.com/books/elm-in-action)
+* Book: [Practical Elm for a Busy Developer](https://korban.net/elm/book/) by Alex Korban
+* Exercises: At Github, some [koans](https://github.com/robertjlooby/elm-koans)
+* Exercise: From the attempt to write Hello World in every language, Elm [Hello World](https://therenegadecoder.com/code/hello-world-in-elm/)
 ## Cases of Elm in Production
 * Ford Motor Company (rumor!)
 * IBM 
