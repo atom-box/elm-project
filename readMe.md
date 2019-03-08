@@ -15,7 +15,7 @@ At first I just went to the same three or four places but everything has snowbal
 * [Dutch Elm](http://www.elmweekly.nl) is a newsletter, not just a 20th Century tragedy of US arboreal history.
 * [Elm Bridge](https://elmbridge.github.io/curriculum/)  is a very cool one day curriculumfrom the official Elm folks.  Project: make an emoji interpereter
 * An article on [Medium](https://medium.com/@l.mugnaini/tutorial-how-to-recycle-in-elm-89b13b6c0bab)* Book, Elm in Action from charismatic Elm-Explainer Richard Feldman [Goodreads review](https://www.goodreads.com/book/show/31441704-elm-in-action)   [Buy](https://www.manning.com/books/elm-in-action)
-* A new book from[Korban.net](https://korban.net/elm/book/) 
+* Book [Practical Elm for a Busy Developer](https://korban.net/elm/book/) by Alex Korban
 * At Github, some [koans](https://github.com/robertjlooby/elm-koans)
 * From the attempt to write Hello World in every language, Elm [Hello World](https://therenegadecoder.com/code/hello-world-in-elm/)
 ## Cases of Elm in Production
