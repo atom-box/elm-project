@@ -23,30 +23,30 @@ At first I just went to the same three or four places but everything has snowbal
 * IBM 
 
 ## Elm Conferences
-[Elm Europe](https://twitter.com/elm_europe)
-[Milwaukee Functional Programming Meetup](https://www.meetup.com/Milwaukee-Functional-Programming-User-Group/)
-[Boston Elm Meetup](https://www.meetup.com/Boston-Elm/)
-[ElmConf](https://twitter.com/elmconf) was run in 2018 as a pre-conference for Strangeloop St Louis
-[Elm in the Spring](https://www.elminthespring.org/) Chicago, March.  Check out the styling, both color palette and Elm-logo-iteration!
+* [Elm Europe](https://twitter.com/elm_europe)
+* [Milwaukee Functional Programming Meetup](https://www.meetup.com/Milwaukee-Functional-Programming-User-Group/)
+* [Boston Elm Meetup](https://www.meetup.com/Boston-Elm/)
+* [ElmConf](https://twitter.com/elmconf) was run in 2018 as a pre-conference for Strangeloop St Louis
+* [Elm in the Spring](https://www.elminthespring.org/) Chicago, March.  Check out the styling, both color palette and Elm-logo-iteration!
 
 ## Glossaries, lists, references, browser widgets
-[Elmstatic](https://korban.net/elm/elmstatic/) a static site generator
-[](https://elm-lang.org/docs/syntax#comments)
-[](https://package.elm-lang.org/packages/elm-lang/core/latest/Basics)
-[](http://www.smoothterminal.com/articles/creating-html-elements-and-using-libraries-in-elm)
-[](https://dennisreimann.de/articles/elm-tools-resources.html)
-[](https://package.elm-lang.org/)
-[](https://github.com/izdi/elm-cheat-sheet)
-[](http://cs.lmu.edu/~ray/notes/introelm/)
+* [Elmstatic](https://korban.net/elm/elmstatic/) a static site generator
+* [](https://elm-lang.org/docs/syntax#comments)
+* [](https://package.elm-lang.org/packages/elm-lang/core/latest/Basics)
+* [](http://www.smoothterminal.com/articles/creating-html-elements-and-using-libraries-in-elm)
+* [](https://dennisreimann.de/articles/elm-tools-resources.html)
+* [](https://package.elm-lang.org/)
+* [](https://github.com/izdi/elm-cheat-sheet)
+* [](http://cs.lmu.edu/~ray/notes/introelm/)
 
 ## Tech Podcasts
-[JavaScript To Elm](https://jstoelm.com/) A podcast about learning Elm, Functional Programing, and generally leveling up as a JS developer.
-[Elm Town](https://elmtown.simplecast.fm/) Podcast and Elm logo iteration.
+* [JavaScript To Elm](https://jstoelm.com/) A podcast about learning Elm, Functional Programing, and generally leveling up as a JS developer.
+* [Elm Town](https://elmtown.simplecast.fm/) Podcast and Elm logo iteration.
 ## Social
-Elm's [Slack Channel](https://elmlang.slack.com)
-The Elm [Reddit](https://www.reddit.com/r/elm/)
-The Elm [Discourse](https://discourse.elm-lang.org/)
-Personal page built with Elm by [Jessica Parson](https://www.verythorough.com/projects/elm-practice)
-Personal page built with Elm by [Aaron Strick](http://aaronstrick.com/)
-Personal page built with Elm by [Alex Korban](https://korban.net/)
+* Elm's [Slack Channel](https://elmlang.slack.com)
+* The Elm [Reddit](https://www.reddit.com/r/elm/)
+* The Elm [Discourse](https://discourse.elm-lang.org/)
+* Personal page built with Elm by [Jessica Parson](https://www.verythorough.com/projects/elm-practice)
+* Personal page built with Elm by [Aaron Strick](http://aaronstrick.com/)
+* Personal page built with Elm by [Alex Korban](https://korban.net/)
 
