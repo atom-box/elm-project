@@ -21,12 +21,14 @@ Project to build seven GUI's* [](https://eugenkiss.github.io/7guis/](one is in E
 * Ford Motor Company (rumor!)
 * IBM 
 
+## Elm Conferences
+[Elm Europe]
+[Milwaukee Functional Programming Meetup]
+[Boston Elm Meetup]
+[Strangeloop]St Louis
+[Elm in the Spring]Chicago
+
 ## Glossaries, lists, references
-[](]()
-[]()
-[]()
-[]()
-[]()
 [https://elm-lang.org/docs/syntax#comments]()
 [https://package.elm-lang.org/packages/elm-lang/core/latest/Basics]()
 [http://www.smoothterminal.com/articles/creating-html-elements-and-using-libraries-in-elm]()
