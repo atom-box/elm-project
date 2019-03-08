@@ -31,13 +31,13 @@ At first I just went to the same three or four places but everything has snowbal
 
 ## Glossaries, lists, references, browser widgets
 * [Elmstatic](https://korban.net/elm/elmstatic/) a static site generator
-* [](https://elm-lang.org/docs/syntax#comments)
-* [](https://package.elm-lang.org/packages/elm-lang/core/latest/Basics)
-* [](http://www.smoothterminal.com/articles/creating-html-elements-and-using-libraries-in-elm)
-* [](https://dennisreimann.de/articles/elm-tools-resources.html)
-* [](https://package.elm-lang.org/)
-* [](https://github.com/izdi/elm-cheat-sheet)
-* [](http://cs.lmu.edu/~ray/notes/introelm/)
+* The 14 most common[syntax questions] (https://elm-lang.org/docs/syntax#comments)
+* Tons of useful[functions that get imported by default.] (https://package.elm-lang.org/packages/elm-lang/core/latest/Basics)
+* Syntax for [adding CSS to HTML](http://www.smoothterminal.com/articles/creating-html-elements-and-using-libraries-in-elm)
+* Dennis Reimann's [lotta links](https://dennisreimann.de/articles/elm-tools-resources.html) from 2016
+* Most common [packages](https://package.elm-lang.org/) like HTML, http, core, url, parser, ...
+* Sergey @PandaDoc Keller's [notebook](https://github.com/izdi/elm-cheat-sheet)
+* Really efficient [crash course notes](http://cs.lmu.edu/~ray/notes/introelm/) from Professor Ray Toal at Loyola Marymount University
 
 ## Tech Podcasts
 * [JavaScript To Elm](https://jstoelm.com/) A podcast about learning Elm, Functional Programing, and generally leveling up as a JS developer.
