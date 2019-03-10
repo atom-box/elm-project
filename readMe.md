@@ -55,3 +55,5 @@ At first I just went to the same three or four places but everything has snowbal
 * Personal page built with Elm by [Aaron Strick](http://aaronstrick.com/)
 * Personal page built with Elm by [Alex Korban](https://korban.net/)
 
+## Organizing the modules
+* Math, trig,int are in [Basics](https://package.elm-lang.org/packages/elm/core/latest/Basics)
