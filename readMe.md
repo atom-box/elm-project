@@ -1,19 +1,16 @@
 # Elm resources for beginners
 Dozens of Elm links!  <br>
-At first I just went to the same three or four places but everything has snowballed.   This is my third time(!) of buckling down to learn Elm and if you have ever rolled a snowman, you know how fast things glom on after the first two rollovers.
+This is my third time(!) of buckling down to learn Elm and if you have ever rolled a snowman, you know how fast things glom on after the first two rollovers.
 
-## Start here! Great bite sized nuggets and references
-* [Elmstatic](https://korban.net/elm/elmstatic/) a static site generator
+## Start here! Summaries and abstracts
 * The 14 most common[syntax questions](https://elm-lang.org/docs/syntax#comments)
-* Tons of useful[functions that get imported by default.] (https://package.elm-lang.org/packages/elm-lang/core/latest/Basics)
-* Syntax for [adding CSS to HTML](http://www.smoothterminal.com/articles/creating-html-elements-and-using-libraries-in-elm)
 * Dennis Reimann's [lotta links](https://dennisreimann.de/articles/elm-tools-resources.html) from 2016
-* Most common [packages](https://package.elm-lang.org/) like HTML, http, core, url, parser, ...
 * Sergey @PandaDoc Keller's [notebook](https://github.com/izdi/elm-cheat-sheet)
 * Really efficient [crash course notes](http://cs.lmu.edu/~ray/notes/introelm/) from Professor Ray Toal at Loyola Marymount University
 
 ## Books, tutorials, holding your hand projects
-* Book: [Beginning Elm](https://elmprogramming.com/) by Pawan Poudel 
+* James Moore's [Elm for Beginners](https://courses.knowthen.com/p/elm-for-beginners).  Best Beginner's videos. [^1]
+* Book: [Beginning Elm](https://elmprogramming.com/) by Pawan Poudel.  Best Beginner's book.
 * Book: [Elm in Action](https://www.manning.com/books/elm-in-action) by Richard Feldman  Reviewed at [Goodreads](https://www.goodreads.com/book/show/31441704-elm-in-action) Available from [Manning Books](https://www.manning.com/books/elm-in-action)
 * Book: [Programming Elm](https://pragprog.com/book/jfelm/programming-elm)  by Jeremy Fairbank Reviewed at [Goodreads](https://www.goodreads.com/book/show/37824829-programming-elm) Available at [Pragmatic Programmer Books](https://pragprog.com/book/jfelm/programming-elm )
 * Book: [Practical Elm for a Busy Developer](https://korban.net/elm/book/) by Alex Korban
@@ -23,7 +20,6 @@ At first I just went to the same three or four places but everything has snowbal
 * Course: [Web Development with Elm](https://www.udemy.com/web-development-with-elm/) (Udemy)
 * Course: [Make 22 Games with Elm](https://www.udemy.com/learn-elm-functional-programming-and-make-22-gamemaker-games/) (Udemy) 
 * Course [Building Applications](https://www.pluralsight.com/courses/building-applications-with-elm) a higher-level course (Pluralsight).
-* Course [Elm for Beginners](https://courses.knowthen.com/p/elm-for-beginners).  This course is free and was made for Elm 0.18. I am guessing it still 99% works.  You would have to figure out how to adapt the main line ("sandbox", et cetera).
 * Exercises: [99 Elm Problems](https://johncrane.gitbooks.io/ninety-nine-elm-problems/content/) a tribute to the influential Ninety-Nine Prolog Problems, from Switzerland
 * Exercises: [Coding Bat](https://codingbat.com/java) CS101 Java exercises from Stanford University to try out in Elm
 * Newsletter [Dutch Elm](http://www.elmweekly.nl).
@@ -55,5 +51,22 @@ At first I just went to the same three or four places but everything has snowbal
 * Personal page built with Elm by [Aaron Strick](http://aaronstrick.com/)
 * Personal page built with Elm by [Alex Korban](https://korban.net/)
 
+## Just Static HTML
+* Syntax for [adding CSS to HTML](http://www.smoothterminal.com/articles/creating-html-elements-and-using-libraries-in-elm)
+* [Elmstatic](https://korban.net/elm/elmstatic/) a static site generator
+
+
 ## Organizing the modules
 * Math, trig,int are in [Basics](https://package.elm-lang.org/packages/elm/core/latest/Basics)
+* Tons of useful[functions that get imported by default.](https://package.elm-lang.org/packages/elm-lang/core/latest/Basics)
+* Every package [search](https://package.elm-lang.org/)
+* HTML, http, core, url, parser[on the right](https://package.elm-lang.org/)
+* []() 
+* []() 
+* []() 
+* []() 
+* []() 
+* []() 
+
+
+[^1] Know then offers this as one of their free courses.  The fact that it is for 0.18 (obsolete) means that certain critical syntaxes have compeletely changed.  But I am really enjoying it so far.  Not much has changed, and whatever has changed, is making me better at using the Elm-lang docs.  Totally do-able.  Moore is clear, gentle for beginners.
