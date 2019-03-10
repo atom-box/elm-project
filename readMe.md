@@ -9,8 +9,8 @@ This is my third time(!) of buckling down to learn Elm and if you have ever roll
 * Really efficient [crash course notes](http://cs.lmu.edu/~ray/notes/introelm/) from Professor Ray Toal at Loyola Marymount University
 
 ## Books, tutorials, holding your hand projects
-* James Moore's [Elm for Beginners](https://courses.knowthen.com/p/elm-for-beginners).  Best Beginner's videos. [^1]
-* Book: [Beginning Elm](https://elmprogramming.com/) by Pawan Poudel.  Best Beginner's book.
+* James Moore's [Elm for Beginners](https://courses.knowthen.com/p/elm-for-beginners).  Best Beginner videos. [^1]
+* Book: [Beginning Elm](https://elmprogramming.com/) by Pawan Poudel.  Best Beginner book.
 * Book: [Elm in Action](https://www.manning.com/books/elm-in-action) by Richard Feldman  Reviewed at [Goodreads](https://www.goodreads.com/book/show/31441704-elm-in-action) Available from [Manning Books](https://www.manning.com/books/elm-in-action)
 * Book: [Programming Elm](https://pragprog.com/book/jfelm/programming-elm)  by Jeremy Fairbank Reviewed at [Goodreads](https://www.goodreads.com/book/show/37824829-programming-elm) Available at [Pragmatic Programmer Books](https://pragprog.com/book/jfelm/programming-elm )
 * Book: [Practical Elm for a Busy Developer](https://korban.net/elm/book/) by Alex Korban
@@ -58,7 +58,7 @@ This is my third time(!) of buckling down to learn Elm and if you have ever roll
 
 ## Organizing the modules
 * Math, trig,int are in [Basics](https://package.elm-lang.org/packages/elm/core/latest/Basics)
-* Tons of useful[functions that get imported by default.](https://package.elm-lang.org/packages/elm-lang/core/latest/Basics)
+* Basics.  Tons of useful [functions that get imported by default.](https://package.elm-lang.org/packages/elm-lang/core/latest/Basics)
 * Every package [search](https://package.elm-lang.org/)
 * HTML, http, core, url, parser[on the right](https://package.elm-lang.org/)
 * []() 
