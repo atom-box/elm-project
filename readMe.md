@@ -61,12 +61,5 @@ This is my third time(!) of buckling down to learn Elm and if you have ever roll
 * Basics.  Tons of useful [functions that get imported by default.](https://package.elm-lang.org/packages/elm-lang/core/latest/Basics)
 * Every package [search](https://package.elm-lang.org/)
 * HTML, http, core, url, parser[on the right](https://package.elm-lang.org/)
-* []() 
-* []() 
-* []() 
-* []() 
-* []() 
-* []() 
-
 
 [^1] Know then offers this as one of their free courses.  The fact that it is for 0.18 (obsolete) means that certain critical syntaxes have compeletely changed.  But I am really enjoying it so far.  Not much has changed, and whatever has changed, is making me better at using the Elm-lang docs.  Totally do-able.  Moore is clear, gentle for beginners.
