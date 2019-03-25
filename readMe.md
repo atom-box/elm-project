@@ -3,7 +3,7 @@ Dozens of Elm links!  <br>
 This is my third time(!) of buckling down to learn Elm and if you have ever rolled a snowman, you know how fast things glom on after the first two rollovers.
 
 ## Start here! Summaries and abstracts
-* The 14 most common[syntax questions](https://elm-lang.org/docs/syntax#comments)
+* The 14 most common [syntax questions](https://elm-lang.org/docs/syntax#comments)
 * Dennis Reimann's [lotta links](https://dennisreimann.de/articles/elm-tools-resources.html) from 2016
 * Sergey @PandaDoc Keller's [notebook](https://github.com/izdi/elm-cheat-sheet)
 * Really efficient [crash course notes](http://cs.lmu.edu/~ray/notes/introelm/) from Professor Ray Toal at Loyola Marymount University
